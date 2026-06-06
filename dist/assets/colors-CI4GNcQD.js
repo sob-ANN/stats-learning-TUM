@@ -1,0 +1,1 @@
+var e=[`tumblue`,`red`,`green`,`blue`,`sky`,`yellow`,`purple`,`pink`,`orange`,`gray`,`indigo`,`violet`,`rose`,`emerald`,`teal`,`cyan`,`amber`,`lime`,`fuchsia`,`slate`,`zinc`,`stone`];export{e as t};
